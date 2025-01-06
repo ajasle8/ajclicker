@@ -1,7 +1,6 @@
 
 # <img src="docs/img/perfectCookie.png" width="24"> Cookie Clicker
 
-A mirror of all the files needed to play [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/).
 This can be useful if you want to:
 - Play offline
 - Make your own deploy
